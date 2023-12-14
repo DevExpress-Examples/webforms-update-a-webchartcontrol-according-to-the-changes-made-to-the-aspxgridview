@@ -13,7 +13,7 @@
 <!-- default file list end -->
 # How to update a WebChartControl according to the changes made to the ASPxGridView
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1277/)**
+**[[Run Online]](https://codecentral.devexpress.com/128575764/)**
 <!-- run online end -->
 
 
