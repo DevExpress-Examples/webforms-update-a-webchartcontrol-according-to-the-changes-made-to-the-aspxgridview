@@ -12,9 +12,6 @@
 * [Global.asax](./CS/WebSite/Global.asax) (VB: [Global.asax](./VB/WebSite/Global.asax))
 <!-- default file list end -->
 # How to update a WebChartControl according to the changes made to the ASPxGridView
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128575764/)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to update a WebChartControl based on the edited data in the ASPxGridView.<br />
